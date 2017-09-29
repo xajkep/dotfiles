@@ -1,1 +1,1 @@
-feh --bg-scale /home/grosse/Pictures/wallpapers/0.jpg
+feh --bg-scale ~/Pictures/wallpapers/0.jpg
